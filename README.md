@@ -9,7 +9,7 @@ If you have sitemap like this:
   </url>
 </urlset>
 ```
-And if you want to url which returns 200. You can check with this project.
+And if you want to know which url returns 404. You can check with this project.
 
 1. clone repo
 2. npm install
